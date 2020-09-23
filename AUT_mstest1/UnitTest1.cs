@@ -8,6 +8,7 @@ namespace AUT_mstest1
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.IsTrue(true);
         }
     }
 }

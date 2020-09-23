@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Source\\Repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\AUT_mstest1.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\AUT_mstest1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Source\\Repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\AUT_mstest1.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\AUT_mstest1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\AUT_mstest1.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\AUT_mstest1.csproj",
         "projectName": "AUT_mstest1",
-        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\AUT_mstest1.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\AUT_mstest1.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ramnaresh-git\\AUT_CI_2_R\\AUT_mstest1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
